@@ -1,6 +1,6 @@
 # Abbaye-SDL
 
-This version already has the SDL libraries integrated in the binary and is available for 32 and 64 bits (GNU/Linux, glibc 2.27, Ubuntu 18.04/Linx Mint 19.3)
+This version already has the SDL libraries integrated in the binary and is available for 64 bits (GNU/Linux, glibc 2.27, Ubuntu 18.04/Linx Mint 19.3)
 
 Port of indie game "l'Abbaye des Morts". Originally released by Locomalito to Windows
 platform in year 2010.
